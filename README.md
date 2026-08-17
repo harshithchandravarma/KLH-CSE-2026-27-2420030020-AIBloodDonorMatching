@@ -21,10 +21,10 @@ Scikit-learn, Pandas, NumPy
 REST API & WebSockets
 Git & GitHub
 Docker
+
+
 Team
-P. POOJITH VARMA SAI
-V. HARSHITH CHANDRA VARMA
-PRANAY
+P. POOJITH VARMA SAI    ,   V. HARSHITH CHANDRA VARMA  ,      P.PRANAY KUMAR
 
 Guide: A. Swapna Reddy
 
